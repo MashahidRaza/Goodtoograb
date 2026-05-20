@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # goodtoograb
 
 A Flutter food-rescue style app (Discover, Browse with list/map, etc.).
@@ -49,3 +50,6 @@ Replace the `YOUR_GOOGLE_MAPS_*` placeholders already in the repo.
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Flutter documentation](https://docs.flutter.dev/)
+=======
+# Goodtoograb
+>>>>>>> 1f349e1981be364ef3fb95495ddcab93544e5b1d
