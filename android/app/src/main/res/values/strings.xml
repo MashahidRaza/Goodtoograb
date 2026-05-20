@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Maps SDK for Android — restrict this key in Google Cloud (package + SHA-1). -->
+    <string name="google_maps_key">AIzaSyBzAsBNRuLjjibdNTnHc4KnnCVQF9kyeQQ</string>
+</resources>
